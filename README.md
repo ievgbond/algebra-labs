@@ -10,3 +10,9 @@ https://doc.sagemath.org/html/en/tutorial/index.html
 
 Tour groups in Sage: <br>
 https://doc.sagemath.org/html/en/tutorial/tour_groups.html
+
+
+## License
+
+This repository is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
