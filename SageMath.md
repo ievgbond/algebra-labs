@@ -27,16 +27,16 @@ https://github.com/davendiy/programming2023-course1/blob/main/materials%2FGithub
 
 - відкриваємо PowerShell від адміністратора (пуск -> пошук по назві)
 
-![img](docs/assets/powershell.png)
+![img](assets/powershell.png)
 
 - пишемо `wsl --install`
 
-![img](docs/assets/wsl-install.png)
+![img](assets/wsl-install.png)
 
 - перезапускаємо компʼютер
 - після перезапуску в пуску можна буде знайти Ubuntu по назві:
 
-![img](docs/assets/ubuntu.png)
+![img](assets/ubuntu.png)
 
 - після запуску вона запропонує вам створити користувача і придумати для цього пароль. Можете не вигадувати щось складне, головне -- запамʼятайте.
 
@@ -58,15 +58,15 @@ curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mi
 bash Miniforge3-$(uname)-$(uname -m).sh
 ```
 
-![img](docs/assets/conda-install.png)
+![img](assets/conda-install.png)
 
 При встановленні вам доведеться ʼпрочитатиʼ ліцензію в термінальному редакторі. Щоб вийти з нього треба натиснути англійську `q`:
 
-![img](docs/assets/license.png)
+![img](assets/license.png)
 
 Далі введіть всюди `yes`, або `enter`, особливо в останньому питанні:
 
-![img](docs/assets/yes.png)
+![img](assets/yes.png)
 
 
 Після цього перезапустіть термінал.
@@ -105,7 +105,7 @@ conda activate sage
 sage
 ```
 
-![alt text](docs/assets/image.png)
+![alt text](assets/image.png)
 
 А ще краще -- запустити сейдж в уже знайомому jupyter notebook:
 
