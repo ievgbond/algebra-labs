@@ -3,7 +3,7 @@
 Завдання необхідно виконувати в математичному пакеті [Sagemath](https://www.sagemath.org/). Є кілька
 онлайн інтерпретаторів, які можна для цього використати, зокрема:
 
-- https://cocalc.com/
+- https://cocalc.ai/
 - https://sagecell.sagemath.org/
 
 
