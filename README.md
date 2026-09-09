@@ -3,7 +3,7 @@
 Тут будуть розміщуватись матеріали для лабораторних робіт з алгебри і теорії чисел.
 
 Теорія з алгебри та приклади в Sage:<br>
-http://abstract.ups.edu/aata/sets-sage-exercises.html
+https://matthematics.com/ura/examples/sample-book/
 
 Sage tutorial: <br>
 https://doc.sagemath.org/html/en/tutorial/index.html
